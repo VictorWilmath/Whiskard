@@ -1,0 +1,1 @@
+Whiskard is a simple program I made over my spring break. It is NOT an all in one cat classifier. It can classify my 3 cats, sometimes. This is just a fun little project of mine :)
